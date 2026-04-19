@@ -1,8 +1,5 @@
 # Machine Learning Systems Portfolio
 
-## Resume
-
-[View Resume](./Liam_Dugan_Resume.docx)
 
 This repository is a curated portfolio of applied machine learning projects with an emphasis on end-to-end workflows, reproducible evaluation, and decision-oriented analysis. The work spans supervised learning, unsupervised learning, NLP, and deep learning, with each project organized as a self-contained case study.
 
