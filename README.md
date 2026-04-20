@@ -23,7 +23,7 @@ Each folder is intended to hold the project README, notebook(s), and any support
 A pricing project framed as a decision system rather than a standalone classifier. It focuses on estimating acceptance behavior, combining predictions with business logic, and selecting rates through an expected-value lens.
 
 ### 2. Model Evaluation Suite
-A reusable evaluation setup for comparing supervised learning models across multiple datasets. The emphasis is on consistent preprocessing, repeatable validation, and understanding how modeling choices affect outcomes.
+A consistent evaluation pattern applied across multiple supervised learning tasks for comparing supervised learning models across multiple datasets. The emphasis is on consistent preprocessing, repeatable validation, and understanding how modeling choices affect outcomes.
 
 ### 3. Customer Segmentation Pipeline
 An unsupervised learning workflow that uses feature preparation, dimensionality reduction, and clustering to surface interpretable customer groups. This project highlights representation learning and cluster validation.
